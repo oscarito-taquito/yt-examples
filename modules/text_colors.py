@@ -1,3 +1,6 @@
+# for more colors visit:
+# https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html#colors
+
 class TextColors:
     red = "\u001b[0;31m"
     green = "\u001b[0;32m"
