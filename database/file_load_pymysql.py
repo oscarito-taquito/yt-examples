@@ -6,14 +6,17 @@ import os
 # set variables
 
 file_path = os.getcwd()
+os.chdir('..')
+data_path = os.getcwd()
+os.chdir(file_path)
 
 conn_properties = {
-    'host':os.getenv('OSKR_HOST'),
-    'user':os.getenv('OSKR_USER'),
-    'password':os.getenv('OSKR_PASS'),
-    'database':os.getenv('OSKR_DB'),
-    'local_infile':True,
-    'charset':'utf8mb4'
+    'host': os.getenv('OSKR_HOST'),
+    'user': os.getenv('OSKR_USER'),
+    'password': os.getenv('OSKR_PASS'),
+    'database': os.getenv('OSKR_DB'),
+    'local_infile': True,
+    'charset': 'utf8mb4'
 }
 
 mysql_conn = pymysql.connect(**conn_properties)
@@ -41,7 +44,7 @@ mysql_conn.commit()
 # %%
 # query to load infile data
 
-load_data = f"""LOAD DATA LOCAL INFILE  '{file_path}/data/temp-upload.csv'
+load_data = f"""LOAD DATA LOCAL INFILE  '{data_path}/data/temp-upload.csv'
 INTO TABLE temp
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'

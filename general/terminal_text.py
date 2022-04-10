@@ -3,7 +3,7 @@ from modules.text_colors import TextColors
 t = TextColors
 
 while True:
-    val  = input("Enter an integer: ")
+    val = input("Enter an integer: ")
 
     if val == 'exit':
         break
