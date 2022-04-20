@@ -10,4 +10,5 @@ Code Snippets published on YouTube channel: https://www.youtube.com/analystscorn
 - general: operating system and other general python examples
 - modules: classes or modules used in other scripts
 - pandas: python pandas examples
+- sql-to-pandas: SQL statement equivalents in Python Pandas
 
