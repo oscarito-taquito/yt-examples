@@ -12,3 +12,9 @@ for word in sentence:
         wc[word] = 1
 
 print(wc)
+
+
+word = 'mississippi'
+lst = set(w)
+letters = ''.join(map(str, lst))
+print(letters)
