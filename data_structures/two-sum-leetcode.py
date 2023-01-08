@@ -20,22 +20,23 @@ class Solution(object):
 
         print(f"list with ordered values {nums_dict}")
         results = []
-        
-        for k ,v in nums_dict.items():
+
+        for k, v in nums_dict.items():
             diff = target - k
             if diff in nums_dict.keys():
                 results = [v, nums_dict[diff]]
-        
+
         print(f"desired target: {target}")
         return results
+
 
 s = Solution()
 
 test_list = [
-    ([1,3,5,7], 10), 
-    ([1,3,5,7], 4), 
-    ([0,3,8,13], 14)
-    ] 
+    ([1, 3, 5, 7], 10),
+    ([1, 3, 5, 7], 4),
+    ([0, 3, 8, 13], 14)
+]
 
 for r in test_list:
     print(s.twoSum(r[0], r[1]))
