@@ -23,7 +23,8 @@ class Solution(object):
 
         for k, v in nums_dict.items():
             diff = target - k
-            if diff in nums_dict.keys():
+            if diff in nums_dict.keys() \
+                    and (target - k) != k:
                 results = [v, nums_dict[diff]]
 
         print(f"desired target: {target}")
@@ -35,7 +36,8 @@ s = Solution()
 test_list = [
     ([1, 3, 5, 7], 10),
     ([1, 3, 5, 7], 4),
-    ([0, 3, 8, 13], 14)
+    ([0, 3, 8, 13], 14),
+    ([5, 10, 15, 20], 30)
 ]
 
 for r in test_list:
