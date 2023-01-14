@@ -1,0 +1,82 @@
+{
+  'original-order.json': [
+    '/Users/oscar/github/yt-examples/general/original-order.json',
+    'original-order.json',
+    '2023-01-14 08:54:21.869816',
+    '2023-01-14 10:37:08.374126',
+    0,
+    0
+  ],
+  'sorted-order.json': [
+    '/Users/oscar/github/yt-examples/general/sorted-order.json',
+    'sorted-order.json',
+    '2023-01-14 08:58:56.512743',
+    '2023-01-14 10:47:32.915460',
+    0,
+    0
+  ],
+  'sorting-files-by-date.py': [
+    '/Users/oscar/github/yt-examples/general/sorting-files-by-date.py',
+    'sorting-files-by-date.py',
+    '2023-01-14 06:36:20.659000',
+    '2023-01-14 10:47:32.919047',
+    0,
+    0
+  ],
+  'udf.py': [
+    '/Users/oscar/github/yt-examples/general/udf.py',
+    'udf.py',
+    '2022-02-04 16:28:58.163697',
+    '2023-01-14 06:43:20.464954',
+    343,
+    0
+  ],
+  'moving-files.py': [
+    '/Users/oscar/github/yt-examples/general/moving-files.py',
+    'moving-files.py',
+    '2022-05-19 11:51:43.682550',
+    '2022-05-19 11:51:43.683020',
+    239,
+    239
+  ],
+  'linux-terminal.py': [
+    '/Users/oscar/github/yt-examples/general/linux-terminal.py',
+    'linux-terminal.py',
+    '2022-02-04 16:28:58.162736',
+    '2022-04-10 00:31:20.750979',
+    343,
+    279
+  ],
+  'env_variables.py': [
+    '/Users/oscar/github/yt-examples/general/env_variables.py',
+    'env_variables.py',
+    '2022-02-04 16:28:58.162180',
+    '2022-04-10 00:28:03.071162',
+    343,
+    279
+  ],
+  'terminal_text.py': [
+    '/Users/oscar/github/yt-examples/general/terminal_text.py',
+    'terminal_text.py',
+    '2022-03-19 23:14:36.849475',
+    '2022-04-10 00:31:32.780640',
+    300,
+    279
+  ],
+  'getting-full-path-in-python.py': [
+    '/Users/oscar/github/yt-examples/general/getting-full-path-in-python.py',
+    'getting-full-path-in-python.py',
+    '2022-02-04 16:28:58.162590',
+    '2022-02-04 16:28:58.162648',
+    343,
+    343
+  ],
+  'strings.py': [
+    '/Users/oscar/github/yt-examples/general/strings.py',
+    'strings.py',
+    '2022-02-04 16:28:58.163569',
+    '2022-02-04 16:28:58.163636',
+    343,
+    343
+  ]
+}
