@@ -9,11 +9,6 @@ Problem: Given an array of integers "nums" and an integer "target",
 
 class Solution(object):
     def twoSum(self, nums, target):
-        """
-        :param nums: list of integers
-        :param target: target value from sum of 2 integers
-        :return: the indices of the two integers
-        """
         nums_dict = {}
         for k, v in enumerate(nums):
             nums_dict[v] = k
@@ -35,7 +30,7 @@ s = Solution()
 
 test_list = [
     ([1, 3, 5, 7], 10),
-    ([1, 3, 5, 7], 4),
+    ([1, 3, 5, 7], 8),
     ([0, 3, 8, 13], 14),
     ([5, 10, 15, 20], 30)
 ]
