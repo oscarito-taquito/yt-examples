@@ -23,5 +23,5 @@ word, letter_count, paragraph_count, words = word_length(my_word, paragraph)
 print(f"The word '{word}' has {letter_count} characters. \n"
       f"Words of that length appear {paragraph_count} times in the paragraph. \n")
 
-x = word_length('spider', paragraph)
-print(x)
+# x = word_length('miss', paragraph)
+# print(x[0], x[1], x)
