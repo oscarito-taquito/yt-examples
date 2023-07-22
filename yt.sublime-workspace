@@ -92,9 +92,6 @@
 	],
 	"file_history":
 	[
-		"/Users/oscar/github/actions-test/trovo/workflow-sample.yml",
-		"/Users/oscar/github/actions-test/trovo/run-workflow.py",
-		"/Users/oscar/aa/aa-openai-api-key.txt",
 		"/Users/oscar/github/yt-examples/general/sorting-files-by-date.py",
 		"/Users/oscar/github/yt-examples/s3/list-bucket-contents.py",
 		"/Users/oscar/github/yt-examples/s3/rename-folders-s3.py"
