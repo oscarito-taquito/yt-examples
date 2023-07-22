@@ -5,6 +5,8 @@
 # sublime files
 *.sublime-project
 *.sublime-workspace
+yt.sublime-project
+yt.sublime-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
