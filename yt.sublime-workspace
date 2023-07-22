@@ -19,8 +19,196 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "data_structures/strings/find-substring.py",
+			"settings":
+			{
+				"buffer_size": 348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\nr"
+					},
+					"AgAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AQAAAAAAAD0BAAAAAAAAAAAAAADwcUA"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD4BAAAAAAAAPgEAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AQAAAAAAAD8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "pritn"
+					},
+					"BQAAAD4BAAAAAAAAPwEAAAAAAAAAAAAAPwEAAAAAAABAAQAAAAAAAAAAAABAAQAAAAAAAEEBAAAAAAAAAAAAAEEBAAAAAAAAQgEAAAAAAAAAAAAAQgEAAAAAAABDAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AQAAAAAAAD4BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEMBAAAAAAAARQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAQAAAAAAAEMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEMBAAAAAAAAQwEAAAAAAAABAAAAKEMBAAAAAAAAQwEAAAAAAAABAAAAKQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAQAAAAAAAEQBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEIBAAAAAAAAQgEAAAAAAAABAAAAbkEBAAAAAAAAQQEAAAAAAAABAAAAdA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAQAAAAAAAEMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "nt"
+					},
+					"AgAAAEEBAAAAAAAAQgEAAAAAAAAAAAAAQgEAAAAAAABDAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAQAAAAAAAEEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEMBAAAAAAAARQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAQAAAAAAAEMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "start"
+					},
+					"BQAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABGAQAAAAAAAAAAAABGAQAAAAAAAEcBAAAAAAAAAAAAAEcBAAAAAAAASAEAAAAAAAAAAAAASAEAAAAAAABJAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAQAAAAAAAEQBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGcBAAAAAAAAaAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAQAAAAAAAGcBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"paste",
+					null,
+					"AQAAAGgBAAAAAAAAhAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABoAQAAAAAAAGgBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "13"
+					},
+					"AwAAAHkBAAAAAAAAegEAAAAAAAAAAAAAegEAAAAAAAB6AQAAAAAAAAUAAABzdGFydHoBAAAAAAAAewEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AQAAAAAAAH4BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHoBAAAAAAAAegEAAAAAAAABAAAAMw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB7AQAAAAAAAHsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAHoBAAAAAAAAewEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AQAAAAAAAHoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHoBAAAAAAAAegEAAAAAAAABAAAANA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB7AQAAAAAAAHsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAHoBAAAAAAAAewEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AQAAAAAAAHoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGgBAAAAAAAAaAEAAAAAAAAZAAAAcHJpbnQodXNlcl9hZ2VudFsxMzplbmRdKQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACBAQAAAAAAAGgBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					32,
+					2,
+					"left_delete",
+					null,
+					"AgAAAD4BAAAAAAAAPgEAAAAAAAAMAAAAcHJpbnQoc3RhcnQpPQEAAAAAAAA9AQAAAAAAAAEAAAAK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AQAAAAAAAEoBAAAAAAAA////////738"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAD0BAAAAAAAAPgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AQAAAAAAAD0BAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -36,7 +224,7 @@
 			],
 			[
 				"Packages/Python/Python.sublime-build",
-				"Syntax Check"
+				""
 			]
 		]
 	],
@@ -47,6 +235,30 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"termi",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"install pa",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"b",
+				"Build With: Python"
+			],
 			[
 				"Ter",
 				"Terminus: Open Default Shell in Panel"
@@ -75,6 +287,7 @@
 		"height": 210.0,
 		"history":
 		[
+			"ls"
 		]
 	},
 	"distraction_free":
@@ -88,17 +301,25 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/oscar/github/yt-examples"
+		"/Users/oscar/github/yt-examples",
+		"/Users/oscar/github/yt-examples/data_structures",
+		"/Users/oscar/github/yt-examples/data_structures/strings",
+		"/Users/oscar/github/yt-examples/general"
 	],
 	"file_history":
 	[
-		"/Users/oscar/github/yt-examples/general/sorting-files-by-date.py",
-		"/Users/oscar/github/yt-examples/s3/list-bucket-contents.py",
-		"/Users/oscar/github/yt-examples/s3/rename-folders-s3.py"
+		"/Users/oscar/github/yt-examples/data_structures/strings/alphanumeric-string.py",
+		"/Users/oscar/github/yt-examples/data_structures/strings/substring-count.py",
+		"/Users/oscar/github/yt-examples/general/format-variables-in-triple-quoted-string.py",
+		"/Users/oscar/github/yt-examples/financial/future-value.py",
+		"/Users/oscar/github/yt-examples/.gitignore",
+		"/Users/oscar/github/yt-examples/yt.sublime-project",
+		"/Users/oscar/github/yt-examples/general/strings.py",
+		"/Users/oscar/Library/Application Support/Sublime Text/Packages/User/SublimeREPL.sublime-settings"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -112,6 +333,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"5aDk2L8PvE9bG3sF1\n    rT4nS9yHmJ8qA6pW2\n    X7kY3dZmP6tF9vG1\n    L2jK9sV4hA5nD8bQ6\n    E3uH5pZ1mC4wR7yS9",
+			"pine"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -133,12 +356,44 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "data_structures/strings/find-substring.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -181,17 +436,17 @@
 	},
 	"output.exec":
 	{
-		"height": 282.0
+		"height": 455.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"pinned_build_system": "yt-examples",
 	"project": "yt.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -228,7 +483,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 275.0,
 	"status_bar_visible": true,
 	"template_settings":
