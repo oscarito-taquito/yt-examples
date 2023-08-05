@@ -1,6 +1,7 @@
 # os specifi
 .DS_Store
 .idea
+.scratch
 
 # sublime files
 *.sublime-project
