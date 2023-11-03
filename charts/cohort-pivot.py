@@ -7,7 +7,7 @@ cur_path = os.path.dirname(os.path.realpath(__file__))
 data_path = os.path.join(cur_path, '../data')
 data_file = os.path.join(data_path, 'cohort_retention_data.csv')
 
-# read data
+# Read data
 data = pd.read_csv(data_file, parse_dates=['cohort_month'])
 data['cohort_month'] = data['cohort_month'].dt.strftime('%Y-%m')
 data = data.sort_values('cohort_month')
@@ -19,7 +19,7 @@ def percentage_formatter(x):
     return "{:.1f}%".format(x * 100)
 
 
-# Pivot the synthetic data to create a matrix for the cohort pivot chart
+# Pivot the data to create a matrix for the cohort pivot chart
 cohort_pivot_chart_data = data.pivot(
     index='retention_day',
     columns='cohort_month',
