@@ -3,6 +3,9 @@
 .idea
 .scratch
 
+# zed proj files
+.zed
+
 # sublime files
 *.sublime-project
 *.sublime-workspace
