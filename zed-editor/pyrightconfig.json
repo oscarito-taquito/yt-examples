@@ -1,0 +1,4 @@
+{
+  "venvPath": "/path_to_your/virtualenvs/.pyenv/versions/",
+  "venv": "venv-name"
+}

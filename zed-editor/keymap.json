@@ -1,0 +1,7 @@
+{
+    "context": "Workspace",
+    "bindings": {
+      // "shift shift": "file_finder::Toggle"
+      "cmd-r": ["task::Spawn", { "task_name": "run file" }]
+    }
+  }
