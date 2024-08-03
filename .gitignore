@@ -5,6 +5,7 @@
 
 # zed proj files
 .zed
+pyrightconfig.json
 
 # sublime files
 *.sublime-project
