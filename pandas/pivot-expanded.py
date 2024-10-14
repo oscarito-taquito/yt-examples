@@ -1,5 +1,4 @@
 import pandas as pd
-from pandas._libs.algos import diff_2d
 
 sample_data = [
     {
