@@ -1,0 +1,33 @@
+// Folder-specific settings
+//
+// For a full list of overridable settings, and general information on folder-specific settings,
+// see the documentation: https://zed.dev/docs/configuring-zed#settings-files
+// Note: check the path of your virtual environment before setting the command path
+{
+  "autosave": "on_focus_change",
+  "base_keymap": "JetBrains",
+  "current_line_highlight": "all",
+  "cursor_shape": "bar",
+  "tabs": {
+    "file_icons": true,
+    "git_status": true
+  },
+  "format_on_save": "on",
+  "preview_tabs": {
+    "enabled": true,
+    "enable_preview_from_file_finder": true,
+    "enable_preview_from_code_navigation": true
+  },
+  "languages": {
+    "Python": {
+      "formatter": "language_server",
+      "format_on_save": {
+        "external": {
+          "command": "/Users/YOUR_USER_AND_PATH/.pyenv/versions/YOUR_ENV_NAME/bin/python",
+          "arguments": ["-m", "ruff", "format", "-"]
+        }
+      },
+      "soft_wrap": "editor_width"
+    }
+  }
+}
